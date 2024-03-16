@@ -18,14 +18,5 @@ function solution(S) {
     return [];
 }
 
-const S1 = ["abc", "bca", "dbe"];
-console.log(solution(S1));
-
-const S2 = ["zzzz", "ferz", "zdsr", "fgtd"];
-console.log(solution(S2));
-
-const S3 = ["gr", "sd", "rg"];
-console.log(solution(S3));
-
-const S4 = ["bdafg", "ceagi"];
-console.log(solution(S4));
+const S = ["abc", "bca", "dbe"];
+console.log(solution(S));
